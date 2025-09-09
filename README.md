@@ -32,3 +32,4 @@ Isso significa que, com base nos dados analisados, não há evidência estatíst
 
 📊 Visualização do Teste
 O gráfico abaixo ilustra a decisão do teste, mostrando a estatística Z e a área de rejeição na distribuição normal padrão.
+![Gráfico do Teste Z](https://github.com/seu-usuario/seu-repositorio/raw/main/images/test_z_graph.png)
